@@ -1,0 +1,14 @@
+:host{
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.example-card {
+    max-width: 400px;
+  }
+  
+  .example-card-footer {
+    padding: 16px;
+  }
