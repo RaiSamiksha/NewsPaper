@@ -3,3 +3,8 @@
     flex-direction: column;
     gap: 10rem;
 }
+div{
+    display: flex;
+    gap: 5rem;
+    justify-content: space-between;
+}
